@@ -1,0 +1,49 @@
+#background{
+position: absolute;
+width: 1920px;
+height: 1080px;
+}
+
+#huoston{
+    position: absolute;
+width: 1764px;
+height: 256px;
+margin: 45px 75px;
+margin-top: 140px;
+font-family: 'Jomhuria';
+font-style: normal;
+font-weight: 400;
+font-size: 256px;
+line-height: 256px;
+color: #FDFBFB;
+text-shadow: 25px 25px 4px rgba(0, 0, 0, 0.25);}
+
+
+#firstFour{
+position: absolute;
+width: 259px;
+height: 265px;
+font-family: 'JejuHallasan';
+margin: 550px 290px;
+font-style: normal;
+font-weight: 400;
+font-size: 512px;
+line-height: 515px;
+color: #F4EAEA;
+text-shadow: 25px 35px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+#secondFour{
+position: absolute;
+width: 259px;
+height: 265px;
+font-family: 'JejuHallasan';
+margin: 550px 1330px;
+font-style: normal;
+font-weight: 400;
+font-size: 512px;
+line-height: 515px;
+color: #F4EAEA;
+text-shadow: 25px 25px 4px rgba(0, 0, 0, 0.25);
+}
